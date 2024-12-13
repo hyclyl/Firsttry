@@ -1,1 +1,2 @@
-Consolew.WriteLine("Hahaha");
+Console.WriteLine("Hahaha");
+Console.WriteLine("verygood");
